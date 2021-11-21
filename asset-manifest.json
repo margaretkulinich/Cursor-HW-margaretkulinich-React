@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cursor-HW-margaretkulinich-React/static/css/main.c707a19e.chunk.css",
+    "main.js": "/Cursor-HW-margaretkulinich-React/static/js/main.632e976b.chunk.js",
+    "main.js.map": "/Cursor-HW-margaretkulinich-React/static/js/main.632e976b.chunk.js.map",
+    "runtime-main.js": "/Cursor-HW-margaretkulinich-React/static/js/runtime-main.436ec738.js",
+    "runtime-main.js.map": "/Cursor-HW-margaretkulinich-React/static/js/runtime-main.436ec738.js.map",
+    "static/js/2.87ceb1c8.chunk.js": "/Cursor-HW-margaretkulinich-React/static/js/2.87ceb1c8.chunk.js",
+    "static/js/2.87ceb1c8.chunk.js.map": "/Cursor-HW-margaretkulinich-React/static/js/2.87ceb1c8.chunk.js.map",
+    "static/js/3.8b6da2d0.chunk.js": "/Cursor-HW-margaretkulinich-React/static/js/3.8b6da2d0.chunk.js",
+    "static/js/3.8b6da2d0.chunk.js.map": "/Cursor-HW-margaretkulinich-React/static/js/3.8b6da2d0.chunk.js.map",
+    "index.html": "/Cursor-HW-margaretkulinich-React/index.html",
+    "precache-manifest.c34bd2e7bc7e8485595bce4b7f6ac156.js": "/Cursor-HW-margaretkulinich-React/precache-manifest.c34bd2e7bc7e8485595bce4b7f6ac156.js",
+    "service-worker.js": "/Cursor-HW-margaretkulinich-React/service-worker.js",
+    "static/css/main.c707a19e.chunk.css.map": "/Cursor-HW-margaretkulinich-React/static/css/main.c707a19e.chunk.css.map",
+    "static/js/2.87ceb1c8.chunk.js.LICENSE.txt": "/Cursor-HW-margaretkulinich-React/static/js/2.87ceb1c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.436ec738.js",
+    "static/js/2.87ceb1c8.chunk.js",
+    "static/css/main.c707a19e.chunk.css",
+    "static/js/main.632e976b.chunk.js"
+  ]
+}
